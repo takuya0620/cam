@@ -7,4 +7,4 @@ macのデフォルトカメラを用いて画像を連続して取得するこ�
     >>> camera.capture_camera()
     >>> exit()
 
-[http://ensekitt.hatenablog.com/entry/2017/12/19/200000](http://ensekitt.hatenablog.com/entry/2017/12/19/200000 "EnsekiTT Blog" target="_blank")
+[http://ensekitt.hatenablog.com/entry/2017/12/19/200000]: http://ensekitt.hatenablog.com/entry/2017/12/19/200000 "EnsekiTT Blog" target="_blank"
