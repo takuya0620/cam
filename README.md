@@ -6,3 +6,5 @@ macのデフォルトカメラを用いて画像を連続して取得するこ�
     >>> import camera
     >>> camera.capture_camera()
     >>> exit()
+
+<http://ensekitt.hatenablog.com/entry/2017/12/19/200000>
